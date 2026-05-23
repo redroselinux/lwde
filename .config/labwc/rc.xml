@@ -1,0 +1,32 @@
+<keyboard>
+  <keybind key="A-d">
+    <action name="Execute">
+      <command>rofi -show drun</command>
+    </action>
+  </keybind>
+  <keybind key="W-d">
+    <action name="Execute">
+      <command>rofi -show drun</command>
+    </action>
+  </keybind>
+  <keybind key="A-r">
+    <action name="Execute">
+      <command>rofi -show run</command>
+    </action>
+  </keybind>
+  <keybind key="W-r">
+    <action name="Execute">
+      <command>rofi -show run</command>
+    </action>
+  </keybind>
+  <keybind key="Super_L">
+    <action name="Execute">
+      <command>rofi -show drun</command>
+    </action>
+  </keybind>
+  <keybind key="Alt_L">
+    <action name="Execute">
+      <command>rofi -show drun</command>
+    </action>
+  </keybind>
+</keyboard>

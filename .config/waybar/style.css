@@ -1,0 +1,36 @@
+* {
+    font-family: monospace;
+    font-size: 12px;
+    border: none;
+    min-height: 0;
+}
+
+window#waybar {
+    background: #1e1e1e;
+    color: #dddddd;
+}
+
+#taskbar button,
+#clock,
+#pulseaudio,
+#network,
+#cpu,
+#memory,
+#battery,
+#tray {
+    padding: 0 10px;
+    color: #ddd;
+}
+
+#taskbar button.active {
+    color: #fff;
+}
+#taskbar button.minimized {
+    color: #555555;
+}
+#battery.warning {
+    color: #ccaa44;
+}
+#battery.critical {
+    color: #cc4444;
+}
