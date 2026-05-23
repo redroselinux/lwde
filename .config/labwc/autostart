@@ -1,1 +1,4 @@
 waybar &
+lwde-desktop-icons &
+awww-daemon &
+awww img /usr/share/lwde/wallpapers/1.png

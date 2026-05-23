@@ -1,0 +1,10 @@
+{
+  "description": "Settings for LWDE",
+  "license": "proprietary",
+  "authors": ["mostypc123"],
+  "copyright": "Copyright © 2026, mostypc123",
+  "name": "lwde-settings",
+  "dependencies": {
+    "gtk-d:gtkd": "~>3.11.0"
+  }
+}

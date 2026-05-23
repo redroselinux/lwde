@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/lwde-settings
+lwde-settings.so
+lwde-settings.dylib
+lwde-settings.dll
+liblwde-settings.a
+lwde-settings.a
+lwde-settings.lib
+lwde-settings-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
